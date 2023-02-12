@@ -11,7 +11,7 @@ In order to start the console, you must use the following command: ./console.py
     store and persist objects to a file (JSON file)
     Commands: create, show, destroy, all (shows all), update, help, quit
 ## Example how to open:
-
+```
 $ ./console.py
 (hbnb) help
 
@@ -23,4 +23,7 @@ EOF  help  quit
 (hbnb) 
 (hbnb) quit
 $
-
+```
+Authors:
+[Craig Mazwi](https://github.com/Lesajay)
+[Rodney Kanjanda](https://github.com/RodneyRKanjanda)
