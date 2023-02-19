@@ -4,5 +4,6 @@ footer {
 	width: 100%;
 	border-top: 1px solid #CCCCCC;
 	position: relative;
+	margin: auto;
 	bottom: 0px;
 }
