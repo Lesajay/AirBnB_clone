@@ -44,6 +44,7 @@
 	height: 60px;
 	font-size: 30px;
 	margin-left: 320px;
+	margin-top: -80px;
 }
 .price_by_night p{
 	margin: 0;
@@ -77,4 +78,7 @@
 .user {
 	padding-top: 5px;
 	padding-bottom: 5px;
+}
+.footer{
+	position: relative;
 }
